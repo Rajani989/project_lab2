@@ -22,7 +22,7 @@ public class String_asc {
 	     //print the string value
 	    for(int i=0;i<str1.length;i++) 
 	    { 
-	       System.out.print(str1[i]+" , ");  
+	       System.out.print(str1[i]+"  ");  
 	    } 
 	  } 
 }
